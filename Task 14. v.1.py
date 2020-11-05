@@ -1,3 +1,4 @@
+#The author of the code: https://github.com/Agurkoff
 """
 Programming tutorial: M.V. Sysoeva, I.V. Sysoev.
 Programming for "normal" ones from scratch in Python part 1.
